@@ -3,7 +3,6 @@
 
 ### Hi there 👋, This is Priyanka Debnath
 #### Data Analyst 
-![Data Analyst ](https://scontent.fphl1-1.fna.fbcdn.net/v/t39.30808-6/472386277_609325664967784_5081096403347952950_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=abDHY_ncJfgQ7kNvgHlwziL&_nc_zt=23&_nc_ht=scontent.fphl1-1.fna&_nc_gid=AZ_QZqvXu6cxJjJHMqoXNOp&oh=00_AYD6Ro8njgrRNGfQ8hChHl5zzfFlLmrz5AbAB9iUaOMgrA&oe=678210AC)
 
 Certified Data Analyst with expertise in statistical analysis, data visualization, and SQL-based data manipulation. 
 
