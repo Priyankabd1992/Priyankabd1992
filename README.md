@@ -12,7 +12,8 @@ Skills: SQL/ PYTHON/ MS EXCEL/ TABLEAU/ DATA VISUALIZATION
 - 🌱 I’m currently learning Data Visualization  
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Data Analysis 
-
+- Resume Link:[Link](https://drive.google.com/file/d/1PXwVDx6G738L7PM2A9J8apFib4BcFqpa/view?usp=drive_link)
+- Project Link:[Link](https://drive.google.com/file/d/1w7OzJczcTRfilnJjXzhb0sgfzKZd3yzD/view?usp=drive_link)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Priyankabd1992)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100076710675525)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledrive.svg' alt='googledrive' height='40'>](https://drive.google.com/file/d/1w7OzJczcTRfilnJjXzhb0sgfzKZd3yzD/view?usp=drive_link)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledrive.svg' alt='googledrive' height='40'>](https://drive.google.com/file/d/1PXwVDx6G738L7PM2A9J8apFib4BcFqpa/view?usp=drive_link)  
 
